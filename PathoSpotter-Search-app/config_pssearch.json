@@ -1,0 +1,1 @@
+{"path_db": "C:\\Users\\Itautec\\Documents\\UEFS\\LACAD\\GitHub\\PathoSpotter-Improvement\\pssearch_dataset.json", "name_representations": ["vgg16", "inception", "pspotter"], "metrics": ["euclidian", "cosine"]}
