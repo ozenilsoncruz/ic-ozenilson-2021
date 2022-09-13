@@ -1,0 +1,1 @@
+{"path_db": "/home/gabriel/bd1.json", "name_representations": ["vgg16", "inception", "pspotter"], "metrics": ["euclidian", "cosine"]}
